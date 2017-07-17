@@ -3,6 +3,6 @@ var assert = chai.assert;
 
 describe('Broken Suite', function() {
   it('should not be true', function() {
-    assert.equal(1, 2);
+    assert.equal(1, 1);
   });
 });
